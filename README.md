@@ -13,7 +13,7 @@ npm install
 
 ## Usage
 
-Start development server with this command and open [localhost:300](http://localhost:3000/)
+Start development server with this command and open [localhost:3000](http://localhost:3000/)
 
 ```bash
 npm run dev
